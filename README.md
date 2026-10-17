@@ -1,4 +1,4 @@
-# Hotel Booking Cancellation Prediction System
+## Hotel Booking Cancellation Prediction System
 
 ## Project Overview
 An academic group project that uses Machine Learning to predict whether a hotel reservation is likely to be cancelled. The trained model is integrated into a Django web application.
